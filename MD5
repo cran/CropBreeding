@@ -1,0 +1,13 @@
+7fda14dd05ae6e4b825234ff6b266bd6 *DESCRIPTION
+312048aa338bf8359434ec43a91584ba *LICENSE
+0dd68afa01d585059e8f574bf2c551c1 *NAMESPACE
+6e3a89e24c2c84e2c56219243a42e0ce *R/ammi_analysis.R
+373ff2a71b450b307d903827528743bf *R/breeding_metrics.R
+e80add9504ec2603863ed1d5a0b4638f *R/data.R
+b87e037caf25d5e7a1bd2634cde1db72 *R/globals.R
+5bd24cba74b64031a4dcfa52e750606e *R/gxe_analysis.R
+8169d25a237b0acdc8d20321264ec03e *R/stability_analysis.R
+7100e237d8e54afc1d9049af642adc15 *man/breeding_metrics.Rd
+5402b181aa74f66da9556a5e870078af *man/gxe_analysis_multiple.Rd
+21888d0fa3689bfac26ba6b7dbb1bfb3 *man/perform_ammi_single_trait.Rd
+2c9e1e9888d5fd66357b213258dd8504 *man/stability_analysis.Rd
